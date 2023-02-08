@@ -1,8 +1,11 @@
 # QuizApp
 This is a timed quiz application.
-![foto1](https://user-images.githubusercontent.com/105421946/217454669-65511ad2-3aac-4453-8dd9-ae94dce84a12.png)
+![foto1](https://user-images.githubusercontent.com/105421946/217457581-1e0062cc-b075-4066-8eb2-a223a5693c8e.png)
+![foto2](https://user-images.githubusercontent.com/105421946/217457584-293931ae-38bf-46e7-a9cf-e5f4f918430a.png)
+![foto3](https://user-images.githubusercontent.com/105421946/217457589-3799933e-92ef-402f-8c23-d50f30137f6c.png)
+![foto4](https://user-images.githubusercontent.com/105421946/217457592-913810ae-47b0-4fb3-9abf-ce0a56d43691.png)
+![foto5](https://user-images.githubusercontent.com/105421946/217457593-6976f0c6-2ec3-4994-b232-d6eed0007bdc.png)
 
-![foto2](https://user-images.githubusercontent.com/105421946/217455395-e2fcada4-17c6-4810-867d-7e3c423243d5.png)
-![foto3](https://user-images.githubusercontent.com/105421946/217455423-8eef63cd-1658-4cd2-9952-121beb9e05db.png)
-![foto4](https://user-images.githubusercontent.com/105421946/217455976-a01aac02-3e33-45e4-a398-8101bff2f240.png)
-![foto5](https://user-images.githubusercontent.com/105421946/217456176-8fa20414-fa91-44dc-9152-f14f243b66b2.png)
+
+https://user-images.githubusercontent.com/105421946/217457608-f61e1202-b0cf-4f02-8751-89524bdc432d.mp4
+
